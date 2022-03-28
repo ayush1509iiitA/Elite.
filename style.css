@@ -36,7 +36,9 @@ a{
 p{
     color: #555;
 }
-
+.logo h3{text-align: center;
+margin-left: -24px;
+}
 
 .container{
     max-width: 1300px;
